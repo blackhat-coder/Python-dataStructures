@@ -15,6 +15,6 @@ class Queue:
         except Exception:
             print('Null')
     def isEmpty(self):
-        return self.container == 0
+        return len(self.container) == 0
     def view(self):
         return self.container
