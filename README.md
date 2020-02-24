@@ -1,3 +1,2 @@
-# Python-stack-Implementation
-Implementation of Data-Structure(Stack) using python
-LIFO
+
+My Implementation of Data Structures and Algorithms using python
