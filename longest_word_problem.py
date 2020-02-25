@@ -1,5 +1,5 @@
 
-Given a sentence from the user, print the longest word in the sentence
+# Given a sentence from the user, print the longest word in the sentence
 
 sentence = input("sentence: ")
 
